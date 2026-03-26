@@ -114,7 +114,7 @@ mlflow ui
 
 ---
 
-## 🛠️ Stack technique
+##  Stack technique
 
 | Composant | Technologies |
 |-----------|-------------|
